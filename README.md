@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Linear regression Analysis
 
 Intent of the Analysis:
@@ -8,7 +7,7 @@ A bike-sharing system is a service in which bikes are made available for shared 
 Our intent is to model the demand for sahred bikes with the predictor varaibles. The model will be used by the company to understand how the demand is varying with resprect to the different features, the management can leverage it to improve the productivity.
 
 
-The steps followed in finding the potential defaulters:
+The steps followed:
 
 Step 1: Understanding the Data
 Step 2: Cleaning the data and EDA
@@ -19,6 +18,3 @@ Step 5: Predicting and evaluating the model.
 Technologies used: Python incorporated with Pandas, Numpy, seaborn modules. Git.
 
 Project Contributors: Krishna chaitanya (chaitanyark123@gmail.com)
-=======
-# Linear_regression_upgrad_1
->>>>>>> 202bd97fb85411631e752373b7749c10135f6476
