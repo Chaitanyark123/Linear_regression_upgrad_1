@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Linear regression Analysis
 
 Intent of the Analysis:
@@ -18,3 +19,6 @@ Step 5: Predicting and evaluating the model.
 Technologies used: Python incorporated with Pandas, Numpy, seaborn modules. Git.
 
 Project Contributors: Krishna chaitanya (chaitanyark123@gmail.com)
+=======
+# Linear_regression_upgrad_1
+>>>>>>> 202bd97fb85411631e752373b7749c10135f6476
